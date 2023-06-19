@@ -1,6 +1,6 @@
 # Privacy Policy for List2Buy
 
-_Last updated: June 10, 2025_
+_Last updated: June 19, 2025_
 
 List2Buy ("the app") is a modern, offline-first React Native application for creating and managing gift lists and shopping lists. This privacy policy explains how List2Buy handles your data and your privacy rights.
 
@@ -12,8 +12,7 @@ List2Buy ("the app") is a modern, offline-first React Native application for cre
 
 ## 2. Data Sharing
 
-- **Export/Import:** You may choose to export or import your lists. Exported files are encrypted and shared via your device's share options. The app does not transmit your data to any third party.
-- **Sharing Lists:** When you share a list, the app creates an encrypted file that you can send using your device's sharing options. The app does not access or transmit this data except as directed by you.
+- **Sharing Lists:** You can export your lists as encrypted files and import them on another device. These files are not shared with us or any third party.
 
 ## 3. Analytics
 
@@ -21,15 +20,14 @@ List2Buy ("the app") is a modern, offline-first React Native application for cre
 
 ## 4. Advertising
 
-- **AdMob Integration:** The app uses Google AdMob to display ads. AdMob may collect device information and use cookies or similar technologies to serve and personalize ads. See [Google's Privacy Policy](https://policies.google.com/privacy) for more information.
-- **Consent:** On first launch, the app will ask for your consent to show personalized ads. You can choose to allow or deny personalized ads. If you deny, only non-personalized ads will be shown.
-- **Ad Frequency:** Ads are shown at a limited frequency (e.g., saving a list) and never interrupt critical app functionality.
-- **No Data Sharing:** The app does not share your list or personal data with AdMob or any other third party.
+- **Google Mobile Ads:** List2Buy uses Google Mobile Ads (AdMob) to display ads. AdMob may collect device information (such as device ID, IP address, and ad interactions) to serve and personalize ads.
+- **User Consent:** On first launch and as required by law (e.g., GDPR, CCPA), you are asked for consent regarding personalized ads. You can change your consent preferences at any time in the app settings.
+- **No Personal Data Sharing:** List2Buy does not share your lists, notes, or any personal data with Google or any third party. Only ad-related device data is handled by Google, as described in their [Privacy Policy](https://policies.google.com/privacy).
 
 ## 5. Permissions
 
 - **Storage:** The app requests access to your device's storage to save and load your lists.
-- **Network:** The app uses network access only for loading ads (if enabled) and for sharing lists if you choose to do so.
+- **Network:** The app uses network access only for loading ads.
 
 ## 6. Security
 
